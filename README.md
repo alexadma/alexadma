@@ -110,9 +110,20 @@ I value **accuracy, adaptability, problem-solving, and continuous learning**.
   </a>
 </p>
 
-📧 Email: **alexadma16@gmail.com**  
-📍 Location: **Sukabumi, Indonesia**
+<p align="left">
+  <a href="alexadma16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" 
+       src="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/output/github-contribution-grid-snake.svg">
+</picture>
 ⭐ *Feel free to explore my repositories and projects. Feedback and collaboration are always welcome.*
