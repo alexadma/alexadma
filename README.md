@@ -45,63 +45,6 @@ I value **accuracy, adaptability, problem-solving, and continuous learning**.
 
 ---
 
-## 💼 Work Experience
-
-### **Full Stack Developer**
-📍 *Yogyakarta*  
-🗓️ **Oct 2025 – Present**
-- Converted UI/UX designs into interactive and functional web pages  
-- Developed and managed MySQL databases  
-- Deployed projects to VPS environments  
-- Configured servers, routers, CCTV, and NVR systems  
-- Maintained and updated existing web applications  
-
-### **UI/UX Designer (Figma)**
-📍 *Yogyakarta*  
-🗓️ **Oct 2025 – Present**
-- Designed complete website interfaces using Figma  
-- Created website identity and logos  
-- Mapped user flow and page structure  
-
-### **Beta Tester – Roblox Game**
-📍 *Yogyakarta*  
-🗓️ **Dec 2024 – Nov 2024**
-- Identified bugs, glitches, and technical issues  
-- Provided structured feedback to developers  
-- Suggested improvements to increase player engagement  
-
----
-
-## 🎓 Education
-
-**Bachelor of Informatics (S.Kom)**  
-📍 *Universitas Sanata Dharma, Yogyakarta*  
-🗓️ **2021 – 2025**  
-🎯 GPA: **3.30**
-
-- Focus on **Artificial Intelligence & Computer Vision**  
-- Active in seminars, workshops, and competitions  
-- Final project related to **Computer Vision**  
-
----
-
-## 🏆 Achievements
-
-- 🏀 MVP Basketball – Ngejaman Cup 3.0  
-- 🥇 1st Place – 3x3 Basketball Ngejaman Cup 3.0  
-- 🥈 2nd Place – Valorant E-Sport (Faculty Level)  
-
----
-
-## 🤝 Soft Skills
-
-- Leadership & Team Coordination  
-- Problem Solving & Critical Thinking  
-- Time Management & Attention to Detail  
-- Adaptability & Strong Communication  
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
@@ -111,19 +54,22 @@ I value **accuracy, adaptability, problem-solving, and continuous learning**.
 </p>
 
 <p align="left">
-  <a href="alexadma16@gmail.com" target="_blank">
+  <a href="mailto:alexadma16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/output/github-contribution-grid-snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/ALEXADMA/ALEXADMA/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/output/github-contribution-grid-snake.svg">
+          srcset="https://raw.githubusercontent.com/ALEXADMA/ALEXADMA/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake animation" 
-       src="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/output/github-contribution-grid-snake.svg">
+       src="https://raw.githubusercontent.com/ALEXADMA/ALEXADMA/output/github-contribution-grid-snake.svg">
 </picture>
+
 ⭐ *Feel free to explore my repositories and projects. Feedback and collaboration are always welcome.*
