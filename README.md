@@ -59,17 +59,17 @@ I value **accuracy, adaptability, problem-solving, and continuous learning**.
   </a>
 </p>
 
----
+--
+<img src="https://raw.githubusercontent.com/alexadma/alexadma/output/snake.svg" alt="Snake animation" />
 
-## 🐍 Contribution Snake
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/ALEXADMA/ALEXADMA/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/ALEXADMA/ALEXADMA/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" 
-       src="https://raw.githubusercontent.com/ALEXADMA/ALEXADMA/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexadma/alexadma/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexadma/alexadma/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alexadma/alexadma/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ⭐ *Feel free to explore my repositories and projects. Feedback and collaboration are always welcome.*
