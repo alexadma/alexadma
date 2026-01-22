@@ -60,9 +60,6 @@ I value **accuracy, adaptability, problem-solving, and continuous learning**.
 </p>
 
 --
-<img src="https://raw.githubusercontent.com/alexadma/alexadma/output/snake.svg" alt="Snake animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexadma/alexadma/output/pacman-contribution-graph-dark.svg">
