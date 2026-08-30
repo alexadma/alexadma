@@ -14,7 +14,9 @@ I am an **Informatics graduate** with professional experience as a **Full Stack 
 I specialize in building, deploying, and maintaining web applications, from **UI/UX design** to **backend systems and databases**.
 
 I am experienced in:
-- Translating UI/UX designs into functional, interactive web applications  
+
+- Translating UI/UX designs into functional, interactive web applications
+- AI modeling Computer Vioson and LLM  
 - Building and managing databases  
 - Server deployment and VPS configuration  
 - IT troubleshooting and system support  
